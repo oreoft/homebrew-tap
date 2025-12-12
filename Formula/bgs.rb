@@ -4,10 +4,10 @@
 class Bgs < Formula
   desc "Bilibili Goods CLI - batch publish/buy items on Bilibili Mall"
   homepage "https://github.com/oreoft/bg-cmd"
-  url "https://github.com/oreoft/bg-cmd/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "cc4fec88224efd4425ae4b8e90753fabd9f733ca966d1e8879f33be380b35ef2"
+  url "https://github.com/oreoft/bg-cmd/archive/refs/tags/v1.0.2.tar.gz"
+  sha256 "3ad9cf09f2acb7d03d199ac116e537c56f1cb8a98e394a2e1319dad7f34dec5c"
   license "MIT"
-  version "1.0.0"
+  version "1.0.2"
 
   depends_on "jq"
   depends_on "qrencode"
